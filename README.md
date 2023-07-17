@@ -1,4 +1,5 @@
-## Installation
+# Assignment-User-Management
+User Management web App using MERN
 
 1. Clone the repository:
 
